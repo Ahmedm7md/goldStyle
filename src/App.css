@@ -1,0 +1,66 @@
+
+.navbar{
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+
+.nav{
+    text-align: center;
+}
+
+#home{
+    position: relative;right: 80px;
+}
+#contact{
+    position: relative;left: 80px;
+}
+
+#home-home{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+#search-bar{
+    position: relative;left: 270px;top: 40px;
+    border-radius: 60px;
+    width: 100%;
+    max-width: 600px;
+    padding: 10px 20px;
+}
+
+#btn{
+    position: relative;left: 200px;
+}
+p{
+    font-weight: bold;
+}
+#shoes{
+    position: relative;bottom: 250px;left: 300px;
+}
+#logo{
+    position: relative;right: 370px;top: 30px;
+}
+#contacts{
+    position: relative;bottom: 330px;
+}
+#abouts{
+    text-align: center;
+    width: 500px;
+    position: relative;left: 280px;top: 30px;
+}
+#products{
+    position: relative;left: 290px;top: 50px;
+}
+
+#search-icon{
+    width: 25px;
+}
+
+#search-btn{
+    position: relative;top: 47px;left: 220px;
+    border: none;
+    box-shadow: none;
+    background: none;
+}
